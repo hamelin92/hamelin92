@@ -6,8 +6,7 @@
   
 
 ## 💻 Tech Stacks 
-
-  :man_student: 주로 `백엔드 개발`에 관심이 있으며 `Python`을 기반으로 개발 전반적인 부분과 다른 프로그래밍 언어들도 공부해나가는 중입니다.
+ 
 
 <div align=center>
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>  	<img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>		<img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
